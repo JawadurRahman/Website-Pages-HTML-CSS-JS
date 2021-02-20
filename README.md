@@ -1,5 +1,5 @@
 # Website-Pages-HTML-CSS-JS
-Assignments designed to help learn how to make an Educational App for Dalhousie Architecture  
+Assignments designed to teach how to make an Educational App for Dalhousie Architecture  
 
 A1: onclick buttons to show and hide images
 
